@@ -1,0 +1,9 @@
+.app { max-width: 400px; }
+
+.contactImage { margin-right: 20px; width: 50px; margin-bottom: 30px; float: left; }
+
+.contactForm { display: -ms-flexbox; display: flex; -ms-flex-direction: column; flex-direction: column; -ms-flex-align: center; align-items: center; }
+
+.contactForm input { margin-bottom: 10px; }
+
+.contactsList { padding-left: 0; }
